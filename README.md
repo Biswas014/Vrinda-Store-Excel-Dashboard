@@ -70,5 +70,5 @@ This focused marketing strategy can improve engagement and maximize ROI on promo
 ---
 
 ## 📁 Files in This Repository
-- `data/vrinda_raw_data.xlsx` — Original dataset (raw).  
-- `data/vrinda_dashboard.xlsx` — Cleaned dataset + Pivot Tables + Dashboard (final output).  
+- `vrinda_sales_raw_data.xlsx` — Original dataset (raw).  
+- `vrinda_sales_report.xlsx` — Cleaned dataset + Pivot Tables + Dashboard (final output).  
