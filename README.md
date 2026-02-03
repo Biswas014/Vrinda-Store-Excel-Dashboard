@@ -79,9 +79,6 @@ This focused marketing strategy can improve engagement and maximize ROI on promo
 │   └── Vrinda_Sales_Report.rar
 └── README.md
 
-yaml
-Copy code
-
 ---
 
 ## 📌 Notes
