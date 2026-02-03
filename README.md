@@ -69,6 +69,26 @@ This focused marketing strategy can improve engagement and maximize ROI on promo
 
 ---
 
-## 📁 Files in This Repository
-- `vrinda_sales_raw_data.xlsx` — Original dataset (raw).  
-- `vrinda_sales_report.xlsx` — Cleaned dataset + Pivot Tables + Dashboard (final output).  
+## 📁 Repository Structure
+📁Vrinda-Store-Excel-Dashboard/
+│
+├── Raw_File/
+│   └── Vrinda_Sales_Raw_Data.rar
+│
+├── Report_File/
+│   └── Vrinda_Sales_Report.rar
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 📌 Notes
+- The Excel Dashboard files are shared in **ZIP format**
+---
+
+## 👤 Author
+**Subrata Biswas**  
+Data Analyst | Power BI | Excel | SQL  
+🔗 LinkedIn: https://www.linkedin.com/in/isubratabiswas
