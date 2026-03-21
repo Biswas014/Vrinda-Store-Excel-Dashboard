@@ -1,6 +1,4 @@
-# 📊 Vrinda Store Sales Dashboard (Excel Project)
-
-🎓 **My first Excel data analysis project as part of my data analyst learning journey.**
+# 📊 Vrinda Store Sales Performance Dashboard 
 
 This project explores Vrinda Store's sales data to identify key customer insights, top-performing channels, and regional sales contributions through an interactive Excel dashboard.
 
@@ -15,6 +13,18 @@ To analyze Vrinda Store's sales data and uncover actionable insights on:
 - 👥 Age group and gender-based order proportions  
 
 ---
+
+## 🧰 Tools & Skills Used
+✅ Microsoft Excel - Spreadsheet application used for quick analysis
+✅ Power Query - for Data Cleaning & Transformation 
+✅ Pivot Tables & Charts - for Summarizing & visualizing the data
+✅ Slicers - for dynamic filtering by multiple categories  
+
+---
+
+## Data Source
+This is a practice project where i have learned how a project is practically created from start to end.
+
 
 ## ⚙️ Step-by-Step Process
 
@@ -57,35 +67,3 @@ To analyze Vrinda Store's sales data and uncover actionable insights on:
 ## 🎯 Final Recommendation
 **Target women customers aged 30–49 years living in Maharashtra, Karnataka, and Uttar Pradesh by promoting ads, offers, and coupons on Amazon, Myntra, and Flipkart.**  
 This focused marketing strategy can improve engagement and maximize ROI on promotional campaigns.
-
----
-
-## 🧰 Tools & Skills Used
-✅ Microsoft Excel  
-✅ Power Query (Data Cleaning & Transformation)  
-✅ Pivot Tables & Charts  
-✅ Slicers (Month & Category)  
-✅ Dashboard Design & Data Visualization  
-
----
-
-## 📁 Repository Structure
-📁Vrinda-Store-Excel-Dashboard/
-│
-├── Raw_File/
-│   └── Vrinda_Sales_Raw_Data.rar
-│
-├── Report_File/
-│   └── Vrinda_Sales_Report.rar
-└── README.md
-
----
-
-## 📌 Notes
-- The Excel Dashboard files are shared in **ZIP format**
----
-
-## 👤 Author
-**Subrata Biswas**  
-Data Analyst | Power BI | Excel | SQL  
-🔗 LinkedIn: https://www.linkedin.com/in/isubratabiswas
